@@ -1,0 +1,14 @@
+{
+  "name": "ejem-boileplate",
+  "version": "0.0.1",
+  "description": "este es un taller de como comenzar proyectos de front-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Leslie Sabattin Vallejos",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
